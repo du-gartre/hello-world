@@ -1,5 +1,5 @@
 # hello-world
-Repositorio de práctica para aprender a usar Github
+Repositorio para aprender a usar Github
 
 Hola, me llamo David y estoy aprendiendo a utilizar Github. 
 Espero que esta herramienta me sea de utilidad para poder compartir y utilizar distintos 
